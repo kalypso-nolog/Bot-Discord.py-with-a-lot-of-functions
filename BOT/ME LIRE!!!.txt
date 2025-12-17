@@ -1,0 +1,3 @@
+Ce bot à été fait spécialement par arch_lock.8 sur discord en Python sur VS Code, c'est un projet purement éthique pour m'améliorer, je le publierai sur github pour le partager, je ne tiendrai pas la responsabilité si vous l'utilisez à therme malveillant !!!
+
+Merci d'avance, pour toutes questions et même si vous avez des conseils car je suis un débutant, un novice, amateur si je puis dire... !
